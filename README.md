@@ -45,4 +45,4 @@ python3 relax.py -d imgs/test.png -o test2.png -i 3 -c 2 0.5 0.5 0.5 -s 5 -v 1
 ![Pure edge detection](imgs/test2.png)
 
 ## Credits
-- All other code was written by Martin Ferianc in 2017.
+- All code was written by Martin Ferianc in 2017.
