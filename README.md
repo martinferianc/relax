@@ -16,8 +16,6 @@ It is an iterative process by defining compatibility coefficients and the region
 
 If you want to read more about it, here is a source better describing what is going on: [Link](http://users.cs.cf.ac.uk/Dave.Marshall/AI2/node188.html)
 
-This work was completed in **October 2017**.
-
 ## Building and Running
 To install all the dependencies run:
 
@@ -47,4 +45,4 @@ python3 relax.py -d imgs/test.png -o test2.png -i 3 -c 2 0.5 0.5 0.5 -s 5 -v 1
 ![Pure edge detection](imgs/test2.png)
 
 ## Credits
-All done by Martin Ferianc, 2017.
+- All other code was written by Martin Ferianc in 2017.
